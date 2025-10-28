@@ -1,1 +1,1 @@
-# AWS-Textract-OCR-Research-Paper-
+# AWS Textract OCR Research Paper
